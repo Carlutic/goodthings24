@@ -1,0 +1,58 @@
+[
+    {
+        "id": 130189,
+        "name": "gt0189",
+        "displayName": "时雨羽衣",
+        "weaponType": "",
+        "element": "GoodThings",
+        "gender": "Female",
+        "region": "",
+        "rarity": 5,
+        "directory": "chars/gt0189",
+        "image": "Covers/gt0189.png",
+        "pmx": "时雨羽衣/Uimama_NormalCos_Mark2_1.0.pmx",
+        "base": "https://carlutic.github.io/goodthings24/"
+    },
+    {
+        "id": 130190,
+        "name": "gt0190",
+        "displayName": "黑海岸見習護士-椿_ver_1.0",
+        "weaponType": "",
+        "element": "GoodThings",
+        "gender": "Female",
+        "region": "",
+        "rarity": 5,
+        "directory": "chars/gt0190",
+        "image": "Covers/gt0190.png",
+        "pmx": "黑海岸見習護士-椿_ver_1.0/黑海岸見習護士-椿 ver 1.0.pmx",
+        "base": "https://carlutic.github.io/goodthings24/"
+    },
+    {
+        "id": 130191,
+        "name": "gt0191",
+        "displayName": "早濑优香",
+        "weaponType": "",
+        "element": "GoodThings",
+        "gender": "Female",
+        "region": "",
+        "rarity": 5,
+        "directory": "chars/gt0191",
+        "image": "Covers/gt0191.png",
+        "pmx": "早濑优香/Yuka_Mark2_1.0.pmx",
+        "base": "https://carlutic.github.io/goodthings24/"
+    },
+    {
+        "id": 130192,
+        "name": "gt0192",
+        "displayName": "狐坂若藻1_1.01",
+        "weaponType": "",
+        "element": "GoodThings",
+        "gender": "Female",
+        "region": "",
+        "rarity": 5,
+        "directory": "chars/gt0192",
+        "image": "Covers/gt0192.png",
+        "pmx": "狐坂若藻1_1.01/Wakamo_Uniform_1.01.pmx",
+        "base": "https://carlutic.github.io/goodthings24/"
+    }
+]
